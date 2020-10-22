@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "title": "twitch",
+      "description": "replica of twitch",
+      "id": 1
+    }
+  ]
+}
