@@ -12,7 +12,7 @@ class App extends Component {
   render() {
     return (
       <div className="ui container">
-        <Router history={history}>
+        <Router history={history} >
           <Header />
           <Route exact path="/" component={StreamList} />
           <Route path="/streams/new" component={StreamCreate} />
